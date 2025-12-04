@@ -1,0 +1,66 @@
+d,n_rounds,lambda_idle,lambda_mr_idle,lambda_czz,dem_method,use_czz,basis,noise_model,independent_channels,error_rates,lattice_style,cz_direction,decoder,decoder_params,p,n_shots,n_fails,uuid
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.002,1000000,5,data_20250923_174221_16d639ef.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,rotated,24,beliefmatching,{'max_bp_iters': 19},0.00293,10000,0,data_20250508_003451_3eba6c06.csv
+19,19,0.1,0.1,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.004,100000,60,data_20250701_140447_e39d8c6c.csv
+19,19,0.1,0.1,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.005,100000,557,data_20250701_140447_e39d8c6c.csv
+19,19,0.1,0.1,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.006,100000,3474,data_20250701_140447_e39d8c6c.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.001,1000000,0,data_20250920_174643_462ca261.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.002,1000000,2,data_20250920_174643_462ca261.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.003,1000000,225,data_20250920_174643_462ca261.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.004,1000000,5264,data_20250920_174643_462ca261.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.005,470000,20825,data_20250920_174643_462ca261.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.006,230000,38331,data_20250920_174643_462ca261.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.007,140000,47522,data_20250920_174643_462ca261.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.0001,10000000,0,data_20250507_212841_6e94df24.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00018,10000000,0,data_20250507_212841_6e94df24.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00031,10000000,0,data_20250507_212841_6e94df24.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00054,10000000,0,data_20250507_212841_6e94df24.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00095,10000000,0,data_20250507_212841_6e94df24.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00167,10000000,0,data_20250507_212841_6e94df24.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.0001,10000,0,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00018,10000,0,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00031,10000,0,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00054,10000,0,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00095,10000,0,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00167,10000,0,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00293,10000,2,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00514,10000,255,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00903,10000,4660,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.01585,10000,4977,data_20250920_215749_54e68011.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.002,1000000,1,data_20250923_174221_5bf39bed.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.001,1000000,0,data_20250920_171531_f3710bc7.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.002,1000000,6,data_20250920_171531_f3710bc7.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.003,1000000,317,data_20250920_171531_f3710bc7.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.004,1000000,5767,data_20250920_171531_f3710bc7.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.005,460000,21303,data_20250920_171531_f3710bc7.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.006,220000,37912,data_20250920_171531_f3710bc7.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.007,140000,48345,data_20250920_171531_f3710bc7.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,rotated,24,beliefmatching,{'max_bp_iters': 19},0.00293,10000,0,data_20250507_194407_6659330d.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,rotated,24,beliefmatching,{'max_bp_iters': 19},0.00514,10000,1,data_20250507_194407_6659330d.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,rotated,24,beliefmatching,{'max_bp_iters': 19},0.00903,10000,294,data_20250507_194407_6659330d.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,rotated,24,beliefmatching,{'max_bp_iters': 19},0.01585,10000,4816,data_20250507_194407_6659330d.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.0001,10000000,0,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00018,10000000,0,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00031,10000000,0,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00054,10000000,0,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00095,10000000,0,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00167,10000000,0,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00293,10000000,75,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00514,1640000,6146,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.00903,150000,47689,data_20250507_192150_13095ab4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,pymatching,{},0.01585,110000,54952,data_20250507_192150_13095ab4.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.002,10000000,31,data_20250923_175150_f4889452.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.002,10000000,35,data_20250923_175150_f0dde515.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.0001,10000,0,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00018,10000,0,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00031,10000,0,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00054,10000,0,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00095,10000,0,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00167,10000,0,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00293,10000,2,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00514,10000,250,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.00903,10000,4641,data_20250920_215749_2f9e93c8.csv
+19,19,0.5,0.5,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,rotated,11,beliefmatching,{'max_bp_iters': 19},0.01585,10000,5014,data_20250920_215749_2f9e93c8.csv
+19,19,0.1,0.1,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.004,100000,41,data_20250701_140447_e4eb5e76.csv
+19,19,0.1,0.1,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.005,100000,495,data_20250701_140447_e4eb5e76.csv
+19,19,0.1,0.1,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.006,100000,3019,data_20250701_140447_e4eb5e76.csv
