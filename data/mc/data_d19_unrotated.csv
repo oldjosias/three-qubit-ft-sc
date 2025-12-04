@@ -1,0 +1,61 @@
+d,n_rounds,lambda_idle,lambda_mr_idle,lambda_czz,dem_method,use_czz,basis,noise_model,independent_channels,error_rates,lattice_style,cz_direction,decoder,decoder_params,p,n_shots,n_fails,uuid
+19,19,0.0,0.0,2.0,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,1696,data_20250917_133717_5d96d9b9.csv
+19,19,0.0,0.0,1.75,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,637,data_20250917_133304_14baf361.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.001,1000000,0,data_20250920_180058_a1bd6ec2.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.002,1000000,0,data_20250920_180058_a1bd6ec2.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.003,1000000,2,data_20250920_180058_a1bd6ec2.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.004,1000000,75,data_20250920_180058_a1bd6ec2.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.005,1000000,1486,data_20250920_180058_a1bd6ec2.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.006,840000,11890,data_20250920_180058_a1bd6ec2.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.007,360000,26804,data_20250920_180058_a1bd6ec2.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.001,1000000,0,data_20250920_180139_e65111ed.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.002,1000000,0,data_20250920_180139_e65111ed.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.003,1000000,0,data_20250920_180139_e65111ed.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.004,1000000,55,data_20250920_180139_e65111ed.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.005,1000000,1221,data_20250920_180139_e65111ed.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.006,920000,10931,data_20250920_180139_e65111ed.csv
+19,19,0.1,0.1,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_lin,unrotated,24,pymatching,{},0.007,380000,24790,data_20250920_180139_e65111ed.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,3,data_20250917_133347_32b32973.csv
+19,19,0.0,0.0,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,152,data_20250917_133511_1c14b90a.csv
+19,19,0.0,0.0,1.25,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,40,data_20250917_133526_91d1395e.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_logarithmic,unrotated,11,pymatching,{},0.00514,100000,249,data_20250917_133610_8ff9f13f.csv
+19,19,0.0,0.0,2.25,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,4541,data_20250917_133425_830753b1.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.0001,10000,0,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00018,10000,0,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00031,10000,0,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00054,10000,0,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00095,10000,0,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00167,10000,0,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00293,10000,0,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00514,10000,10,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00903,10000,2309,data_20250921_024003_6733a695.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.01585,10000,5007,data_20250921_024003_6733a695.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,unrotated,11,pymatching,{},0.00514,100000,113,data_20250917_133610_ae6f2802.csv
+19,19,0.0,0.0,3.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,23079,data_20250917_133624_b6170a22.csv
+19,19,0.0,0.0,2.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,9059,data_20250917_133319_2b13e993.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.0001,10000,0,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00018,10000,0,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00031,10000,0,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00054,10000,0,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00095,10000,0,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00167,10000,0,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00293,10000,0,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00514,10000,8,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00903,10000,2368,data_20250921_023937_a3bb3d06.csv
+19,19,0.5,0.5,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.01585,10000,5025,data_20250921_023937_a3bb3d06.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,11,data_20250917_133047_fe34e3ae.csv
+19,19,0.0,0.0,1.5,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,202,data_20250917_133119_75b3be7a.csv
+19,19,0.0,0.0,2.25,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,4258,data_20250917_133940_cb37d426.csv
+19,19,0.0,0.0,2.5,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,8450,data_20250917_133718_9b23cc26.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,unrotated,11,pymatching,{},0.0001,10000000,0,data_20250507_200435_8d1ef7e4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,unrotated,11,pymatching,{},0.00018,10000000,0,data_20250507_200435_8d1ef7e4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,unrotated,11,pymatching,{},0.00031,10000000,0,data_20250507_200435_8d1ef7e4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,unrotated,11,pymatching,{},0.00054,10000000,0,data_20250507_200435_8d1ef7e4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,unrotated,11,pymatching,{},0.00095,10000000,0,data_20250507_200435_8d1ef7e4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_logarithmic,unrotated,11,pymatching,{},0.00167,10000000,0,data_20250507_200435_8d1ef7e4.csv
+19,19,0.0,0.0,1.25,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,46,data_20250917_133211_baa7d2ac.csv
+19,19,0.0,0.0,2.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,1836,data_20250917_133205_18d5f2f1.csv
+19,19,0.0,0.0,3.0,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,22493,data_20250917_134020_dac98e38.csv
+19,19,0.0,0.0,1.75,corr_decomp_appdis,True,x,SI1000,False,sweep_logarithmic,unrotated,24,pymatching,{},0.00514,100000,588,data_20250917_133711_70d2e338.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00293,10000,0,data_20250507_210016_fd8757b4.csv
+19,19,0.0,0.0,1.0,corr_decomp_appdis,True,z,SI1000,False,sweep_logarithmic,unrotated,24,beliefmatching,{'max_bp_iters': 19},0.00514,10000,0,data_20250507_210016_fd8757b4.csv
